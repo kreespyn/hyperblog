@@ -7,6 +7,7 @@ body
     margin: 0;
     padding: 0;
 }
+<<<<<<< HEAD
 
 #cabecera 
 {
@@ -31,6 +32,12 @@ body
 {
     width: 70%;
     padding: 0;
+=======
+#container 
+{
+    width: 70%;
+    padding: 1em;
+>>>>>>> 10d0ad2 (Commit al master del blogpost en su version mas reciente)
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto; 
@@ -41,10 +48,13 @@ body
 {
     font-size: 20px;
 
+<<<<<<< HEAD
 }
 
 #post 
 {
     padding: 1em;
 
+=======
+>>>>>>> 10d0ad2 (Commit al master del blogpost en su version mas reciente)
 }
